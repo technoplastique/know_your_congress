@@ -1,0 +1,54 @@
+PersonIntent who is {FirstName} {LastName}
+PersonIntent who is {LastName}
+PersonIntent who is {FirstName}
+PersonIntent who is {LastName} {FirstName}
+PersonIntent who's {FirstName} {LastName}
+PersonIntent who's {LastName}
+PersonIntent who's {FirstName}
+PersonIntent who's {LastName} {FirstName}
+PersonIntent who {FirstName} {LastName} is
+PersonIntent who {LastName} is
+PersonIntent who {FirstName} is
+PersonIntent who {LastName} {FirstName} is
+
+StateIntent who represents {State}
+StateIntent who is the representative for {State}
+StateIntent who the representative for {State} is
+StateIntent who is from {State}
+StateIntent who is for {State}
+StateIntent who is elected for {State}
+StateIntent who is elected from {State}
+StateIntent who is the congressman for {State}
+StateIntent who is the congresswoman for {State}
+StateIntent who is the congressperson for {State}
+StateIntent who are the congresspeople for {State}
+StateIntent who are the congressmen for {State}
+StateIntent who are the congresswomen for {State}
+StateIntent who are the congressional representatives for {State}
+StateIntent who are the senators for {State}
+StateIntent who is the senator for {State}
+StateIntent who is the congressman from {State}
+StateIntent who is the congresswoman from {State}
+StateIntent who is the congressperson from {State}
+StateIntent who are the congresspeople from {State}
+StateIntent who are the congressmen from {State}
+StateIntent who are the congresswomen from {State}
+StateIntent who are the congressional representatives from {State}
+StateIntent who are the senators from {State}
+StateIntent who is the senator for {State}
+
+SupportedStatesIntent what districts are supported
+SupportedStatesIntent what states are supported
+SupportedStatesIntent what territories are supported
+SupportedStatesIntent what states and districts are supported
+SupportedStatesIntent what districts and states are supported
+SupportedStatesIntent what states and territories are supported
+SupportedStatesIntent what territories and states are supported
+SupportedStatesIntent what territories and districts are supported
+SupportedStatesIntent what districts and territories are supported
+SupportedStatesIntent what states are there
+SupportedStatesIntent what districts are there
+SupportedStatesIntent what territories are there
+SupportedStatesIntent what states
+SupportedStatesIntent what districts
+SupportedStatesIntent what territories
